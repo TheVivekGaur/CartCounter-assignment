@@ -1,0 +1,56 @@
+.Cartcount{
+ text-align: center;
+ display: flex;
+ justify-content:space-between 
+}
+.header {
+ height: 70px;
+ width: 100%;
+ display: flex;
+ justify-content: space-between;
+ margin-bottom: 25px;
+}
+.count{
+ background-color:#ffd700;
+border: none;
+color:black;
+margin:7px;
+padding: 15px 32px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 26px;
+}
+.increament-button{
+background-color:#303030; /* Green */
+border: none;
+color: white;
+margin:7px;
+padding: 15px 32px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+}
+.decreament-button{
+ background-color:#303030; /* Green */
+ border: none;
+ color: white;
+ margin:7px;
+ padding: 15px 32px;
+ text-align: center;
+ text-decoration: none;
+ display: inline-block;
+ font-size: 16px;
+ }
+ .remove-button{
+  background-color:#F80000 ; /* Green */
+  border: none;
+  margin:7px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  }
